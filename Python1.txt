@@ -1,0 +1,36 @@
+
+Introduction to Python:
+
+Python  Shell and Python IDLE
+Python is an interactive language. It means it executes the code line by line. Python provides a python shell (also known as python interactive shell) which is used to execute a 
+single python command and get the result. Python shell waits for the input command from the user. As soon as the user enters the command, it executes it and displays the result.
+
+IDLE (Integrated Development and Learning Environment) is an integrated development environment (IDE) for python. The python installer for windows contains the IDLE 
+moduleby default. IDLE can be used to execute a single statement just like python shell and also to create, modify and execute python scripts.
+
+Variables:
+A python variable is a reserved memory location to store values. In other words, a variable in python program gives data to the computer for processing. Every value in python has
+a datatype.
+
+Identifiers:
+A python identifier is a name used to identify a variable, function, class, module or other object. An identifier starts with a letter A to Z or a to z or an underscore followed by zero
+or more letters, underscores and digits.
+
+Rules for writing identifier:
+1. Identifiers can be a combination of letters in lowercase (a to z) or uppercase (A to Z) or digits (0 to 9) or an underscore _.  Names like myClass, var_1 and print_this_to_screen,
+ all are valid example. 
+2. An identifier cannot start with a digit. 1variable is invalid, but variable1 is a valid name.
+3. Keywords cannot be used as identifiers.
+4. We cannot use special symbols like !, @, #, $, % etc. in our identifier.
+5. An identifier can be of any length.
+6. Python is a case-sensitive language. This means, Variable and variable are not the same.
+7. Multiple words can be separated using an underscore, like this_is_a_long_variable.
+
+Variable types:
+1. int
+2. float
+3. string
+4. boolean
+5. list
+6. tuple
+7. dictionary
